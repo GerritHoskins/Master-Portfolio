@@ -2,10 +2,10 @@
   "name": "master-portfolio",
   "version": "0.1.1",
   "private": true,
-  "homepage": "https://GerritHoskins.github.io/Master-Portfolio",
+  "homepage": "https://hoskinsportfolio.netlify.app",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GerritHoskins/master-portfolio.git"
+    "url": "git+https://github.com/GerritHoskins/Master-Portfolio.git"
   },
   "keywords": [
     "master-portfolio",
