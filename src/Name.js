@@ -1,8 +1,8 @@
 const greeting = {
-    title: "Your Name",
+    title: "Gerrit Hoskins",
     logo_name: "Name",
     subTitle:
-    "subTitle."
+    "Fullstack Developer & Web Dev Enthusiast."
 };
 const socialMedia = {
     facebook: "Your facebook link",
