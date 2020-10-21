@@ -5,14 +5,15 @@ const greeting = {
     "Fullstack Developer & Web Dev Enthusiast."
 };
 const socialMedia = {
-    facebook: "Your facebook link",
+   /*  facebook: "Your facebook link",
     twitter: "Your twitter link",
-    instagram: "Your instagram link",
+    instagram: "Your instagram link", */
+    linkedin: "Your linkedin link",
+    xing: "Your xing link",
     github: "Your github link",
     gitlab: "Your gitlab link",
     devto: "Your devto link",
-    mailto: "mailto:Your mail",
-    linkedin: "Your linkedin link"
+    mailto: "mailto:Your mail"    
 };
 const about = {
     School: "Your School Name",
